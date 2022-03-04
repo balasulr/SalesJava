@@ -25,7 +25,7 @@ public class Product {
 	public void log() { // Shows all info
 		System.out.println(this);
 	}
-	
+	// Getters and Setters
 	public int getId() {
 		return id;
 	}
